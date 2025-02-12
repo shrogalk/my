@@ -4,11 +4,11 @@
 
 .lcd {
     font-size: 60px;
-    color: green;
+    color: red;
 }
 
 #ckc {
-   background-color: blue; /* Blue background */
+   background-color: red; /* Blue background */
   color: white; /* White text color */
   padding: 15px
 };
