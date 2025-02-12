@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+}
+
+.lcd {
+    font-size: 60px;
+    color: green;
+}
+
+#ckc {
+   background-color: blue; /* Blue background */
+  color: white; /* White text color */
+  padding: 15px
+};
