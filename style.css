@@ -1,14 +1,5 @@
-.main {
-    text-align: center;
-}
-
-.lcd {
-    font-size: 60px;
-    color: red;
-}
-
-#ckc {
-   background-color: red; /* Blue background */
-  color: white; /* White text color */
-  padding: 15px
-};
+.button {
+    border: 2px solid black; /* Adds a border of 2px */
+    padding: 15px; /* Adds 15px of space between the content and the border */
+    margin: 20px; /* Adds 20px of space around the outside of the element */
+  
