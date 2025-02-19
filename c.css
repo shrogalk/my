@@ -1,0 +1,55 @@
+body{
+
+    font-family: Arial, sans-serif;
+  
+    text-align: center;
+  
+  }
+  
+  h1{
+  
+    font-size: 36px;
+  
+    font-weight: bold;
+  
+  }
+  
+  .box{
+  
+    width: 80%;
+  
+    margin: auto;
+  
+    text-align: center ;
+  
+  }
+  
+  .green-box{
+  
+    border: 2px solid green;
+  
+    padding: 10px;
+  
+    margin: 20px auto;
+  
+  }
+  
+  .orange-box{
+  
+    border: 3px dashed orange;
+  
+    padding: 30px;
+  
+    margin: 50px auto;
+  
+  }
+  
+  .purple-box{
+  
+    border: 1px solid purple;
+  
+    padding: 5px;
+  
+    margin:10px 40px 20px 30px;
+  
+  }
